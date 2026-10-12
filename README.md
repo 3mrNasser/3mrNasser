@@ -38,14 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mrNasser&show_icons=true&theme=radical" alt="Amr's GitHub Stats" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
